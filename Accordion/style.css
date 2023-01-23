@@ -36,6 +36,9 @@ h1{
     background-color: white;
     padding: 20px;
 }
+.faq-item:first-child .faq-item_title{
+    border-radius:   10px 10px  0 0;
+}
 
 .faq-item:last-child .faq-item_title{
     border-radius:  0 0 10px 10px ;
